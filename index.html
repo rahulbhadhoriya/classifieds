@@ -1,31 +1,34 @@
 <!doctype html>
 <html>
-  <head>
-    <title>ngClassifieds</title>
-    <link rel="stylesheet" href="node_modules/angular-material/angular-material.css">
-    <link href="node_modules/mdi/css/materialdesignicons.min.css" media="all" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="css/style.css">
+
+<head>
+  <title>ngClassifieds</title>
+  <link rel="stylesheet" href="node_modules/angular-material/angular-material.css">
+  <link href="node_modules/mdi/css/materialdesignicons.min.css" media="all" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="app/css/style.css">
 
   <!-- Setting the right viewport -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
-  </head>
-  <body ng-app="ngClassifieds">
+</head>
 
-    <div ui-view></div>
-    
+<body ng-app="ngClassifieds">
 
-    <script src="node_modules/angular/angular.js"></script>
-    <script src="node_modules/angular-material/angular-material.js"></script>
-    <script src="node_modules/angular-animate/angular-animate.js"></script>
-    <script src="node_modules/angular-aria/angular-aria.js"></script>
-    <script src="node_modules/angular-ui-router/release/angular-ui-router.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.5.1/lodash.min.js"></script>
-    <script src="scripts/app.js"></script>
-    <script src="components/classifieds/classifieds.ctr.js"></script>
-    <script src="components/classifieds/classifieds.fac.js"></script>
-    <script src="components/classifieds/new/classifieds.new.ctr.js"></script>
-    <script src="components/classifieds/edit/classifieds.edit.ctr.js"></script>
+  <div ui-view></div>
 
-  </body>
+
+  <script src="node_modules/angular/angular.js"></script>
+  <script src="node_modules/angular-material/angular-material.js"></script>
+  <script src="node_modules/angular-animate/angular-animate.js"></script>
+  <script src="node_modules/angular-aria/angular-aria.js"></script>
+  <script src="node_modules/angular-ui-router/release/angular-ui-router.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.5.1/lodash.min.js"></script>
+  <script src="app/scripts/app.js"></script>
+  <script src="app/components/classifieds/classifieds.controller.js"></script>
+  <script src="app/services/classifieds.factory.js"></script>
+  <script src="app/components/classifieds/new/classifieds.new.controller.js"></script>
+  <script src="app/components/classifieds/edit/classifieds.edit.controller.js"></script>
+
+</body>
+
 </html>
