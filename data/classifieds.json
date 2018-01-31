@@ -1,0 +1,89 @@
+[{
+    "id": "1",
+    "title": "Hyundai Grand I10 Sportz 1.2 Kappa Vtvt, 2015, Petrol",
+    "description": "Hyundai Grand I10 Sportz 1.2 Kappa Vtvt, 2015, Petrol",
+    "price": 60000,
+    "posted": "2015-10-24",
+    "contact": {
+      "name": "Rahul singh",
+      "phone": "",
+      "email": "example@gmail.com"
+    },
+    "categories": [
+      "Vehicles",
+      "Parts and Accessories"
+    ],
+    "image": "https://images.cardekho.com/images/expert-review/hyundai-grand-i10/1487763377835/500X350/Hyundai-Grand-i10-0.jpg",
+    "views": 213
+  },
+  {
+    "id": "2",
+    "title": "Winter Jacket",
+    "description": "jacket for men",
+    "price": 500,
+    "posted": "2015-10-28",
+    "contact": {
+      "name": "Rahul singh",
+      "phone": "",
+      "email": "example@gmail.com"
+    },
+    "categories": [
+      "Clothing"
+    ],
+    "image": "https://img.sitaphal.com/media/uploads/sitaphal-5787-1-1-1453277023.jpg",
+    "views": 422
+  },
+  {
+    "id": "3",
+    "title": "Baby Crib and Matress",
+    "description": "Good condition.",
+    "price": 5000,
+    "posted": "2015-10-27",
+    "contact": {
+      "name": "Rahul singh",
+      "phone": "",
+      "email": "example@gmail.com"
+    },
+    "categories": [
+      "Furniture"
+    ],
+    "image": "http://thenaturalsleepstore.com/wp-content/uploads/2017/04/EB-RCM_eco-baby-natural-rubber-crib-mattress.jpg",
+    "views": 23
+  },
+  {
+    "id": "4",
+    "title": "Leather Sofa",
+    "description": "Brown leather sofa for sale.  Good condition but small tear on one cushion.",
+    "price": 25000,
+    "posted": "2015-11-01",
+    "contact": {
+      "name": "Rahul singh",
+      "phone": "",
+      "email": "example@gmail.com"
+    },
+    "categories": [
+      "Furniture"
+    ],
+    "image": "https://secure.img1-ag.wfcdn.com/im/97814524/resize-h800%5Ecompr-r85/3805/38057488/Burton+Leather+Sofa.jpg",
+    "views": 77
+  },
+  {
+    "id": "5",
+    "title": "MacBook Air",
+    "description": "2013 MacBook Air. Great condition, but a few scratches.",
+    "price": 1150,
+    "posted": "2015-11-02",
+    "contact": {
+      "name": "Rahul singh",
+      "phone": "",
+      "email": "example@gmail.com"
+    },
+    "categories": [
+      "Electronics",
+      "Computer Parts and Accessories"
+    ],
+    "image": "http://cdn.macrumors.com/article-new/2014/11/macbook_air_yosemite-800x450.jpg?retina",
+    "views": 889
+  }
+
+]
